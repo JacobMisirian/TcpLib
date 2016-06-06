@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="TcpLib/TcpLib.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TcpLib/TcpConnection.cs">
+    <Files>
+      <File FileName="TcpLib/TcpConnection.cs" Line="8" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TcpLib" expanded="True">
+            <Node name="TcpLib" expanded="True">
+              <Node name="TcpConnection.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

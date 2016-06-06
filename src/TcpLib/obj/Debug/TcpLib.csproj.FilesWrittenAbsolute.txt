@@ -1,0 +1,5 @@
+/home/reagan/TcpLib/TcpLib/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/reagan/TcpLib/TcpLib/bin/Debug/TcpLib.dll.mdb
+/home/reagan/TcpLib/TcpLib/bin/Debug/TcpLib.dll
+/home/reagan/TcpLib/TcpLib/obj/Debug/TcpLib.dll
+/home/reagan/TcpLib/TcpLib/obj/Debug/TcpLib.dll.mdb
